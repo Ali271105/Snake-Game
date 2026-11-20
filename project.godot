@@ -22,3 +22,4 @@ config/features=PackedStringArray("4.7")
 
 window/size/viewport_width=600
 window/size/viewport_height=400
+window/stretch/mode="canvas_items"
